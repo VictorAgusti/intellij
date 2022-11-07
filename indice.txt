@@ -6,3 +6,5 @@
 · Capítulo 3: Gestión de ramas
 
 · Capítulo 4: Repositorios remoto
+
+· Capítulo 5: Conceptos avanzados
